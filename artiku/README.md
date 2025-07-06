@@ -129,7 +129,7 @@ ArTiKu dirancang dengan konsep:
 
 ##  Author
 
-Project ini dibuat oleh **Asria R.** untuk memenuhi tugas project pembuatan website *ArTiKu*.
+Project ini dibuat oleh **Asria Rus.** untuk memenuhi tugas project pembuatan website artikel *ArTiKu*.
 
 ---
 
@@ -139,5 +139,5 @@ Open source untuk keperluan belajar dan tugas kuliah.
 
 ---
 
-Sekian & Terima kasih!  
+Sekian & Terima kasih! 
 
