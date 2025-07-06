@@ -1,6 +1,6 @@
 ## ArTiKu — Website Baca Artikel & Manajemen Konten
 
-**ArTiKu** adalah website sederhana berbasis **CodeIgniter 3** yang dikembangkan untuk memenuhi tugas project pembuatan aplikasi web.  
+**ArTiKu** adalah website sederhana berbasis **CodeIgniter 3** yang dikerjakan untuk memenuhi tugas project pembuatan aplikasi web, mata kuliah *Pemrograman Web II*.  
 Website ini berfungsi sebagai **platform membaca artikel** dan **sistem manajemen konten** dengan panel admin untuk mengelola artikel dan feedback pengunjung.
 
 ---
