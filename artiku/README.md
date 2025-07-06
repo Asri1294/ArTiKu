@@ -65,7 +65,6 @@ ArTiKu dirancang dengan konsep:
 
 **3. Detail Artikel (User)**  
 - User membaca isi artikel lengkap.
-- Jika ada form feedback, user bisa mengirim pesan.
 
 **4. Login Admin**
 - Admin masuk dengan username & password.
@@ -77,7 +76,7 @@ ArTiKu dirancang dengan konsep:
 **6. CRUD Artikel**
 - Admin bisa membuat artikel baru.
 - Isi judul, konten, status draft.
-- Admin bisa mengedit artikel.
+- Admin bisa mengedit/update artikel.
 - Admin bisa menghapus artikel dengan konfirmasi **SweetAlert**.
 
 **7. Tampilan Feedback**
@@ -103,9 +102,9 @@ ArTiKu dirancang dengan konsep:
 
 1. **Clone atau download** folder project.  
 2. Letakkan di folder **htdocs** (jika pakai XAMPP).  
-3. Import file `.sql`.  
+3. Import file `db_artikel.sql`.  
 4. Atur koneksi database di `application/config/database.php`.  
-5. Jalankan via `localhost/nama_project`.  
+5. Jalankan via `localhost/nama_project` jika sudah setting `.htaccsess`.   
 6. Login admin: **(username & password sesuai data di tabel `user`)**.
 
 ---
@@ -140,5 +139,5 @@ Open source untuk keperluan belajar dan tugas kuliah.
 
 ---
 
-Terima kasih!  
+Sekian & Terima kasih!  
 
