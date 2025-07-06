@@ -54,7 +54,7 @@ ArTiKu dirancang dengan konsep:
 
 ## Alur Kerja
 
-**1. Halaman Awal (User)**  
+**1. Halaman Awal (User/Public)**  
 - User membuka beranda.
 - Melihat banner, deskripsi website, dan link menuju daftar artikel.
 
@@ -103,10 +103,10 @@ ArTiKu dirancang dengan konsep:
 
 1. **Clone atau download** folder project.  
 2. Letakkan di folder **htdocs** (jika pakai XAMPP).  
-3. Import file `.sql` (jika disediakan).  
+3. Import file `.sql`.  
 4. Atur koneksi database di `application/config/database.php`.  
 5. Jalankan via `localhost/nama_project`.  
-6. Login admin: **(username & password sesuai data di tabel `admin`)**.
+6. Login admin: **(username & password sesuai data di tabel `user`)**.
 
 ---
 
