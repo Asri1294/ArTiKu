@@ -122,12 +122,12 @@ ArTiKu dirancang dengan konsep:
 
 ##  Catatan
 
-- Upload gambar dilakukan manual ke folder `/uploads` (bisa dikembangkan dengan upload dinamis, *Author mau tapi diburu deadline jadi upload yang sudah dikerjakan saja :' ).
+- Upload gambar dilakukan manual ke folder `/uploads` (bisa dikembangkan dengan upload dinamis, *Admin mau tambahkan tapi diburu deadline jadi upload yang sudah dikerjakan saja :' ).
 - Proyek ini hanya untuk pembelajaran — belum menggunakan fitur login multi-role, validasi tingkat lanjut, atau editor konten seperti TinyMCE.
 
 ---
 
-##  Author
+##  Creator
 
 Project ini dibuat oleh **Asria Rus.** untuk memenuhi tugas project pembuatan website artikel *ArTiKu*.
 
@@ -140,4 +140,5 @@ Open source untuk keperluan belajar dan tugas kuliah.
 ---
 
 Sekian & Terima kasih! 
+
 
